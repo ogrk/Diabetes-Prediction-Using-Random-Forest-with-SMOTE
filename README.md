@@ -17,8 +17,6 @@ Because the trained model file is too large to upload directly to GitHub, you ca
 
 👉 **Model Download:** *https://drive.google.com/file/d/1D2IZGUYNF9rjhhVQRGJ79jLkWo-ufTS0/view?usp=drive_link*
 
-Make sure the file is set to **“Anyone with the link can view/download”**.
-
 ---
 
 ## 📊 Dataset
