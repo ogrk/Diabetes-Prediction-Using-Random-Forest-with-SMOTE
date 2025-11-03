@@ -100,6 +100,12 @@ You can adapt or clone the Replit code from this repo.
 
 ---
 
+## 👥 Contributors
+- **Rishi Kaushik [@ogrk](https://github.com/ogrk)** 
+- **Devarsh Raval [@Devarsh-Raval](https://github.com/Devarsh-Raval)**  
+
+---
+
 ## 🚀 How to Run Locally
 
 1. Clone the repository:
